@@ -4,7 +4,8 @@
   <img src="https://media.tenor.com/voZ3SYsc2gX.gif" width="150" alt="Hello Meme">
 </div>
 
-## Hi people! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi people! 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <h1 align="center">🤖 Kirana Azzahra Otto 🤖</h1>
 <p align="center">
@@ -20,8 +21,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
-
----
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/kiranaao/kiranaao/snake-output/snake.svg" alt="Snake animation" />
 
@@ -68,6 +67,18 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+---
+
+### 📊 Github Stat
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/kiranaao/kiranaao/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/kiranaao/kiranaao/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=kiranaao&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/kiranaao/kiranaao/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/kiranaao/kiranaao/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ---
 
