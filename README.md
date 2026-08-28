@@ -25,19 +25,6 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
 
 ---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiranaao&show_icons=true&theme=radical&hide_border=true" alt="Kirana's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=kiranaao&theme=radical&hide_border=true" alt="Kirana's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranaao&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
-</p>
-
----
-
 🛠️ Tech Stack & Tools:
 
 **Development & Integration**
