@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kirana%20Azzahra%20Otto&fontColor=eeebe3&stroke=baad8b" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kirana%20AO&fontColor=eeebe3&stroke=baad8b" />
 
 <div align="center">
   
