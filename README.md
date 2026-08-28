@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kiran&fontColor=eeebe3&stroke=baad8b" />
+
 <div align="center">
   <img src="https://media.tenor.com/voZ3SYsc2gX.gif" width="150" alt="Hello Meme">
 </div>
