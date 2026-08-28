@@ -1,4 +1,4 @@
-## Hi people!
+## Hi people! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <h1 align="center">🤖 Kirana Azzahra Otto 🤖</h1>
 <p align="center">
@@ -14,6 +14,7 @@
 ---
 
 ### 👩🏻‍💻 About Me:
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="200" alt="Coding Animation">
 
 Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka mengeksplorasi dunia pemrograman, integrasi sistem, dan kustomisasi *tools* produktivitas. 
 
@@ -23,9 +24,11 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
 - 🎨 Sisi Kreatif:  Memiliki minat pada desain grafis dan terbiasa membuat aset visual menggunakan Canva.
 - ⚡ Fakta Unik:    Sangat menikmati merancang alur logika yang efisien sekaligus menjaga nilai estetikanya.
 
+<br>
+
 ---
 
-🛠️ Tech Stack & Tools:
+### 🛠️ Tech Stack & Tools:
 
 **Development & Integration**
 <p align="left">
@@ -40,15 +43,19 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
 
 ---
 
-📫 Let's connect:
+### 📫 Let's connect:
 
 <p align="left">
   <a href="mailto:kiranaotto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/Kirana Azzahra Otto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/kirana-azzahra-otto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="left">
+  <i>Feel free to say hi! I'm always open to discussing tech, sharing ideas, or just having a casual chat. ✨</i>
 </p>
