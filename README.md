@@ -1,6 +1,6 @@
 ## Hello, y'all 👋
 
-<h1 align="center">Hi there, I'm Kirana Azzahra Otto 👋</h1>
+<h1 align="center">🤖 Kirana Azzahra Otto 🤖</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Maba+Teknik+Informatika;Arsitek+Logika;Tech+%26+Productivity+Enthusiast" alt="Typing SVG" />
@@ -8,24 +8,24 @@
 </p>
 
 <p align="center">
-  💻 <b>Informatics Engineering Student</b> | 🚀 Current Vibe: Learning & Coding
+  💻 <b>Informatics Engineering Student</b> | 🚀 Starting learning things.
 </p>
 
 ---
 
-### 👩🏻‍💻 Tentang Saya
+### 👩🏻‍💻 About Me:
 
 Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka mengeksplorasi dunia pemrograman, integrasi sistem, dan kustomisasi *tools* produktivitas. 
 
-- 🎓 **Pendidikan:** Mahasiswa Baru Teknik Informatika.
-- 🌱 **Fokus Belajar:** Algoritma pemrograman dasar, desain visual, dan otomatisasi sistem.
-- ⚙️ **Eksplorasi:** Memanfaatkan AI *chatbots* untuk *brainstorming* atau refleksi harian, serta tertarik pada pengembangan proyek integrasi seperti *scenario service* pada Telegram Bot.
-- 🎨 **Sisi Kreatif:** Memiliki minat pada desain grafis dan terbiasa membuat aset visual menggunakan Canva.
-- ⚡ **Fakta Unik:** Sangat menikmati merancang alur logika yang efisien sekaligus menjaga nilai estetikanya.
+- 🎓 Pendidikan:    Mahasiswa Teknik Informatika.
+- 🌱 Fokus Belajar: Algoritma pemrograman dasar, desain visual, dan otomatisasi sistem.
+- ⚙️ Eksplorasi:    Memanfaatkan AI *chatbots* untuk *brainstorming* atau refleksi harian, serta tertarik pada pengembangan proyek integrasi seperti *scenario service* pada Telegram Bot.
+- 🎨 Sisi Kreatif:  Memiliki minat pada desain grafis dan terbiasa membuat aset visual menggunakan Canva.
+- ⚡ Fakta Unik:    Sangat menikmati merancang alur logika yang efisien sekaligus menjaga nilai estetikanya.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools:
 
 **Development & Integration**
 <p align="left">
@@ -44,7 +44,7 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Kirana's GitHub Stats" width="48%" />
@@ -57,7 +57,7 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
 
 ---
 
-### 📫 Mari Terhubung
+📫 Let's connect:
 
 <p align="left">
   <a href="mailto:emailanda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
