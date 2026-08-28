@@ -25,6 +25,19 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
 
 ---
 
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiranaao&show_icons=true&theme=radical&hide_border=true" alt="Kirana's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranaao&theme=radical&hide_border=true" alt="Kirana's GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranaao&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+</p>
+
+---
+
 🛠️ Tech Stack & Tools:
 
 **Development & Integration**
@@ -39,20 +52,9 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
 <p align="left">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
-</p>
-
----
-
-📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiranaao&show_icons=true&theme=radical&hide_border=true" alt="Kirana's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranaao&theme=radical&hide_border=true" alt="Kirana's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranaao&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
 
 ---
@@ -61,5 +63,5 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
 
 <p align="left">
   <a href="mailto:kiranaotto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/Kirana_Azzahra_Otto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/Kirana Azzahra Otto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
