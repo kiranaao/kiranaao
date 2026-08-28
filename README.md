@@ -1,4 +1,4 @@
-## Hello, y'all 👋
+## Hi people!
 
 <h1 align="center">🤖 Kirana Azzahra Otto 🤖</h1>
 <p align="center">
@@ -47,12 +47,12 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Kirana's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="Kirana's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiranaao&show_icons=true&theme=radical&hide_border=true" alt="Kirana's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranaao&theme=radical&hide_border=true" alt="Kirana's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranaao&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
@@ -60,6 +60,6 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
 📫 Let's connect:
 
 <p align="left">
-  <a href="mailto:emailanda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kiranaotto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/Kirana_Azzahra_Otto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
