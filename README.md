@@ -1,11 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kirana%20Azzahra%20Otto&fontColor=eeebe3&stroke=baad8b" />
 
 <div align="center">
-  <img src="https://media.tenor.com/voZ3SYsc2gX.gif" width="150" alt="Hello Meme">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGV0b2xpOXU0eXh0YXRjYjN3M3hrcmU1cjY0czh2czB6MWtodTh0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif" width="100" alt="Hello Meme">
 </div>
 
-## Hi people! 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi people! 👋
 
 <h1 align="center">🤖 Kirana Azzahra Otto 🤖</h1>
 <p align="center">
