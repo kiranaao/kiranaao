@@ -46,25 +46,17 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
 
 **Development & Integration**
 <p align="left">
-  <img src="https://devicons.io/devicons/icons/python.svg" alt="Python" />
-  <img src="https://devicons.io/devicons/icons/html-5.svg" alt="HTML" />
-  <img src="https://devicons.io/devicons/icons/github-icon.svg" alt="Git" />
-  <img src="https://devicons.io/devicons/icons/telegram-icon.svg" alt="Telegram API" />
-  <img src="https://devicons.io/devicons/icons/visual-studio-code.svg" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
 </p>
 
 **Productivity & Design**
 <p align="left">
-  <img src="" alt="Canva" />
-  <img src="https://devicons.io/devicons/icons/notion-icon.svg" alt="Notion" />
-  <img src="https://devicons.io/devicons/icons/openai-icon.svg" alt="ChatGPT" />
-  <img src="https://devicons.io/devicons/icons/claude-icon.svg" alt="Claude" />
-  <img src="https://devicons.io/devicons/icons/google-gemini.svg" alt="Gemini" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=canva&size=76&color=%233b82f6" alt="canva" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
 </p>
 
 ---
