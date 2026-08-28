@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.tenor.com/voZ3SYsc2gX.gif" width="150" alt="Hello Meme">
+</div>
+
 ## Hi people! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <h1 align="center">🤖 Kirana Azzahra Otto 🤖</h1>
@@ -11,10 +15,13 @@
   💻 <b>Informatics Engineering Student</b> | 🚀 Starting learning things.
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 ### 👩🏻‍💻 About Me:
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="200" alt="Coding Animation">
+
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Me Coding Meme">
 
 Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka mengeksplorasi dunia pemrograman, integrasi sistem, dan kustomisasi *tools* produktivitas. 
 
@@ -25,6 +32,11 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
 - ⚡ Fakta Unik:    Sangat menikmati merancang alur logika yang efisien sekaligus menjaga nilai estetikanya.
 
 <br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkVDsPRm3/giphy.gif" width="180" alt="It works!"> 
+  <br><i>"Me when my code runs without errors on the first try"</i>
+</p>
 
 ---
 
@@ -47,9 +59,13 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 ### 📫 Let's connect:
+
+<img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="140" alt="Cat Vibing">
 
 <p align="left">
   <a href="mailto:kiranaotto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
