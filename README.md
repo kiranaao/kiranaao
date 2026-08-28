@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kirana%20AO&fontColor=eeebe3&stroke=baad8b" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kirana%20A.O&fontColor=eeebe3&stroke=baad8b" />
 
 <div align="center">
   
@@ -84,7 +84,7 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
 
 ### 📫 Let's connect:
 
-<img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="140" alt="Cat Vibing">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHR2czQ1dnJmZDU4ZGRjanJ4bXNneW9idXBiM3h1NTZkbjR3amZ1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lxxOGaDRk4f7R5TkBd/giphy.gif" width="140" alt="Speed">
 
 <p align="left">
   <a href="mailto:kiranaotto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
