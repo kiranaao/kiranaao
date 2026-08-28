@@ -3,7 +3,7 @@
 <h1 align="center">🤖 Kirana Azzahra Otto 🤖</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Maba+Teknik+Informatika;Arsitek+Logika;Tech+%26+Productivity+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Maba+Teknik+Informatika;Arsitek+Logika;Tech+%26+Learner+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pembelajar yang suka m
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiranaao&show_icons=true&theme=radical&hide_border=true" alt="Kirana's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranaao&theme=radical&hide_border=true" alt="Kirana's GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=kiranaao&theme=radical&hide_border=true" alt="Kirana's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
